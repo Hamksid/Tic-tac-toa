@@ -60,7 +60,7 @@ body{
 
 .cell.x::before,
 .cell.x::after{
-    background-color: black;
+    background-color: red;
 }
 
 .cell.circle::before,
